@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/place_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nombre lugar"
+        android:textStyle="bold"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+
+    <RatingBar
+        android:id="@+id/ratingBar3"
+        style="@style/Widget.AppCompat.RatingBar.Small"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:isIndicator="true"
+        android:layout_alignBottom="@+id/category"
+        android:layout_alignStart="@+id/num_opiniones" />
+
+    <TextView
+        android:id="@+id/category"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="Categoria"
+        android:layout_below="@+id/place_name"
+        android:layout_alignStart="@+id/place_name" />
+
+    <TextView
+        android:id="@+id/num_opiniones"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="33dp"
+        android:text="numero opiniones"
+        android:textColor="#BCBCBC"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@+id/place_name" />
+</RelativeLayout>

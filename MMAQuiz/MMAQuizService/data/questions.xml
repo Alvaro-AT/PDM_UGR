@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<metadata>
+	<num>5</num>
+</metadata>
+<questions>
+        <question>
+            <q>¿Cuál de los siguientes es un fruto típico almeriense?</q>
+            <A>Pimiento</A>
+            <B>Fresa</B>
+            <C>Caña de azúcar</C>
+            <correctanswer>Pimiento</correctanswer>
+        </question>
+        <question>
+            <q>¿Quién no va a ganar el mundial de F1 100%?</q>
+            <A>Alonso</A>
+            <B>Hamilton</B>
+            <C>Vettel</C>
+            <correctanswer>Alonso</correctanswer>
+        </question>
+        <question>
+            <q>¿Cuándo comenzó la Guerra Civil?</q>
+            <A>2001</A>
+            <B>1981</B>
+            <C>1936</C>
+            <correctanswer>1936</correctanswer>
+        </question>
+	<question>
+		<q>¿Quién es el mejor jugador del mundo?</q>
+		<A>Messi</A>
+		<B>Cristiano Ronaldo</B>
+		<C>Neymar Jr</C>
+		<correctanswer>Messi</correctanswer>
+	</question>
+	<question>
+		<q>¿Quién no es y nunca será el mejor jugador del mundo?</q>
+		<A>Messi</A>
+		<B>Cristiano Ronaldo</B>
+		<C>Neymar Jr</C>
+		<correctanswer>Cristiano Ronaldo</correctanswer>
+	</question>
+</questions>
+</data>

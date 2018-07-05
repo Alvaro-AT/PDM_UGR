@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <prueba>
+        <descripcion>El pimiento es uno de los frutos estrella de Almería. Busca esta imagen.</descripcion>
+        <qr>uno</qr>
+        <imagen>pimiento.jpg</imagen>
+    </prueba>
+    <prueba>
+        <descripcion>Lorca es uno de los autores más influyentes de Andalucía. Encuentra esta portada de una de sus mejores obras.</descripcion>
+        <qr>dos</qr>
+        <imagen>lorca.jpg</imagen>
+    </prueba>
+    <prueba>
+        <descripcion>Camarón es un artista gaditano ilustre e influyente en la historia de España. Encuentra su imagen.</descripcion>
+        <qr>tres</qr>
+        <imagen>camaron.jpg</imagen>
+    </prueba>
+    <prueba>
+        <descripcion>Las migas son un plato típico del este andaluz. Busca esta imagen y deléitate con la gastronomía andaluza.</descripcion>
+        <qr>cuatro</qr>
+        <imagen>migas.jpg</imagen>
+    </prueba>
+    <prueba>
+        <descripcion>Estuvo a punto de ser una de las 7 maravillas del mundo, pero finalmente La Alhambra se quedó a las puertas. Encuentra la imagen.</descripcion>
+        <qr>cinco</qr>
+        <imagen>alhambra.jpg</imagen>
+    </prueba>
+    <prueba>
+        <descripcion>Es una de las tradiciones más significativas de Cádiz, siendo famosa en todas partes. Busca esta imagen de los carnavales gaditanos.</descripcion>
+        <qr>seis</qr>
+        <imagen>carnaval.jpg</imagen>
+    </prueba>
+    <prueba>
+        <descripcion>Picasso es uno de los pintores más ilustres de nuestro país. Encuentra el Gernika, uno de sus cuadros más famosos.</descripcion>
+        <qr>siete</qr>
+        <imagen>gernika.jpg</imagen>
+    </prueba>
+</data>
